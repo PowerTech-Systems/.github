@@ -21,7 +21,7 @@
 
 ## ⚡ Qui sommes-nous
 
-**PowerTech Systems** conçoit et fabrique des batteries lithium pour la traction électrique — véhicules tout-terrain, marine, robotique, véhicules industriels — et pour le stockage stationnaire.
+**PowerTech Systems** conçoit et fabrique des batteries lithium pour la traction électrique, véhicules tout-terrain, marine, robotique, véhicules industriels et pour le stockage stationnaire.
 
 Spécialistes du **lithium fer phosphate (LiFePO4)**, nous faisons des batteries sûres et pensées pour le recyclage, sans cobalt, nickel ni manganèse. Nos produits sont **modulaires** : notre technologie brevetée **BMS Matrix** gère plusieurs centaines de modules pour assembler les installations les plus ambitieuses.
 
