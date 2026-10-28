@@ -19,7 +19,7 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" height="8"></p>
 
-## ⚡ Qui sommes-nous
+##  Qui sommes-nous
 
 **PowerTech Systems** conçoit et fabrique des batteries lithium pour la traction électrique, véhicules tout-terrain, marine, robotique, véhicules industriels et pour le stockage stationnaire.
 
@@ -29,7 +29,7 @@ Spécialistes du **lithium fer phosphate (LiFePO4)**, nous faisons des batteries
   <img src="./assets/stats.svg" alt="15 ans d’expérience · LiFePO4 · jusqu’à 819,2 V · plus de 1 MWh de stockage · ISO 9001" width="100%">
 </p>
 
-## 🔋 Nos gammes
+##  Nos gammes
 
 <p align="center">
   <a href="https://www.powertechsystems.eu/fr/produits/pack-batterie-12v-lithium-powerbrick/"><img src="./assets/powerbrick.svg" alt="PowerBrick — batteries 12, 24 et 48 V" width="49%"></a>
@@ -38,7 +38,7 @@ Spécialistes du **lithium fer phosphate (LiFePO4)**, nous faisons des batteries
   <a href="https://www.powertechsystems.eu/fr/produits/powerstart-12v-starter-battery-600cca/"><img src="./assets/powerstart.svg" alt="PowerStart — batterie de démarrage 12 V" width="49%"></a>
 </p>
 
-## 🛠️ Le logiciel autour des batteries
+##  Le logiciel autour des batteries
 
 Une batterie moderne, c’est aussi du code : celui qui la surveille, la met à jour et la fabrique. C’est ce que l’équipe développe ici, de la carte électronique jusqu’à l’application.
 
